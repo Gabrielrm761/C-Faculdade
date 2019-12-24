@@ -1,0 +1,11 @@
+C:\Users\gabriel\source\repos\Lista04 - Comando Substring com Vetor\Lista04 - Comando Substring com Vetor\bin\Debug\netcoreapp2.1\Lista04 - Comando Substring com Vetor.deps.json
+C:\Users\gabriel\source\repos\Lista04 - Comando Substring com Vetor\Lista04 - Comando Substring com Vetor\bin\Debug\netcoreapp2.1\Lista04 - Comando Substring com Vetor.runtimeconfig.json
+C:\Users\gabriel\source\repos\Lista04 - Comando Substring com Vetor\Lista04 - Comando Substring com Vetor\bin\Debug\netcoreapp2.1\Lista04 - Comando Substring com Vetor.runtimeconfig.dev.json
+C:\Users\gabriel\source\repos\Lista04 - Comando Substring com Vetor\Lista04 - Comando Substring com Vetor\bin\Debug\netcoreapp2.1\Lista04 - Comando Substring com Vetor.dll
+C:\Users\gabriel\source\repos\Lista04 - Comando Substring com Vetor\Lista04 - Comando Substring com Vetor\bin\Debug\netcoreapp2.1\Lista04 - Comando Substring com Vetor.pdb
+C:\Users\gabriel\source\repos\Lista04 - Comando Substring com Vetor\Lista04 - Comando Substring com Vetor\obj\Debug\netcoreapp2.1\Lista04 - Comando Substring com Vetor.csprojAssemblyReference.cache
+C:\Users\gabriel\source\repos\Lista04 - Comando Substring com Vetor\Lista04 - Comando Substring com Vetor\obj\Debug\netcoreapp2.1\Lista04 - Comando Substring com Vetor.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\source\repos\Lista04 - Comando Substring com Vetor\Lista04 - Comando Substring com Vetor\obj\Debug\netcoreapp2.1\Lista04 - Comando Substring com Vetor.AssemblyInfoInputs.cache
+C:\Users\gabriel\source\repos\Lista04 - Comando Substring com Vetor\Lista04 - Comando Substring com Vetor\obj\Debug\netcoreapp2.1\Lista04 - Comando Substring com Vetor.AssemblyInfo.cs
+C:\Users\gabriel\source\repos\Lista04 - Comando Substring com Vetor\Lista04 - Comando Substring com Vetor\obj\Debug\netcoreapp2.1\Lista04 - Comando Substring com Vetor.dll
+C:\Users\gabriel\source\repos\Lista04 - Comando Substring com Vetor\Lista04 - Comando Substring com Vetor\obj\Debug\netcoreapp2.1\Lista04 - Comando Substring com Vetor.pdb

@@ -1,0 +1,11 @@
+C:\Users\gabriel\source\repos\Exercicios1\Exercicios1\bin\Debug\netcoreapp2.1\Exercicios1.deps.json
+C:\Users\gabriel\source\repos\Exercicios1\Exercicios1\bin\Debug\netcoreapp2.1\Exercicios1.runtimeconfig.json
+C:\Users\gabriel\source\repos\Exercicios1\Exercicios1\bin\Debug\netcoreapp2.1\Exercicios1.runtimeconfig.dev.json
+C:\Users\gabriel\source\repos\Exercicios1\Exercicios1\bin\Debug\netcoreapp2.1\Exercicios1.dll
+C:\Users\gabriel\source\repos\Exercicios1\Exercicios1\bin\Debug\netcoreapp2.1\Exercicios1.pdb
+C:\Users\gabriel\source\repos\Exercicios1\Exercicios1\obj\Debug\netcoreapp2.1\Exercicios1.csprojAssemblyReference.cache
+C:\Users\gabriel\source\repos\Exercicios1\Exercicios1\obj\Debug\netcoreapp2.1\Exercicios1.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\source\repos\Exercicios1\Exercicios1\obj\Debug\netcoreapp2.1\Exercicios1.AssemblyInfoInputs.cache
+C:\Users\gabriel\source\repos\Exercicios1\Exercicios1\obj\Debug\netcoreapp2.1\Exercicios1.AssemblyInfo.cs
+C:\Users\gabriel\source\repos\Exercicios1\Exercicios1\obj\Debug\netcoreapp2.1\Exercicios1.dll
+C:\Users\gabriel\source\repos\Exercicios1\Exercicios1\obj\Debug\netcoreapp2.1\Exercicios1.pdb

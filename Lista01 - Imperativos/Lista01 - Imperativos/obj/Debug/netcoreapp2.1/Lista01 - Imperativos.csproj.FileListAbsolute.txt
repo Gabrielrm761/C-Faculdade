@@ -1,0 +1,11 @@
+C:\Users\gabriel\source\repos\Lista01 - Imperativos\Lista01 - Imperativos\bin\Debug\netcoreapp2.1\Lista01 - Imperativos.deps.json
+C:\Users\gabriel\source\repos\Lista01 - Imperativos\Lista01 - Imperativos\bin\Debug\netcoreapp2.1\Lista01 - Imperativos.runtimeconfig.json
+C:\Users\gabriel\source\repos\Lista01 - Imperativos\Lista01 - Imperativos\bin\Debug\netcoreapp2.1\Lista01 - Imperativos.runtimeconfig.dev.json
+C:\Users\gabriel\source\repos\Lista01 - Imperativos\Lista01 - Imperativos\bin\Debug\netcoreapp2.1\Lista01 - Imperativos.dll
+C:\Users\gabriel\source\repos\Lista01 - Imperativos\Lista01 - Imperativos\bin\Debug\netcoreapp2.1\Lista01 - Imperativos.pdb
+C:\Users\gabriel\source\repos\Lista01 - Imperativos\Lista01 - Imperativos\obj\Debug\netcoreapp2.1\Lista01 - Imperativos.csprojAssemblyReference.cache
+C:\Users\gabriel\source\repos\Lista01 - Imperativos\Lista01 - Imperativos\obj\Debug\netcoreapp2.1\Lista01 - Imperativos.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\source\repos\Lista01 - Imperativos\Lista01 - Imperativos\obj\Debug\netcoreapp2.1\Lista01 - Imperativos.AssemblyInfoInputs.cache
+C:\Users\gabriel\source\repos\Lista01 - Imperativos\Lista01 - Imperativos\obj\Debug\netcoreapp2.1\Lista01 - Imperativos.AssemblyInfo.cs
+C:\Users\gabriel\source\repos\Lista01 - Imperativos\Lista01 - Imperativos\obj\Debug\netcoreapp2.1\Lista01 - Imperativos.dll
+C:\Users\gabriel\source\repos\Lista01 - Imperativos\Lista01 - Imperativos\obj\Debug\netcoreapp2.1\Lista01 - Imperativos.pdb
